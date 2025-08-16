@@ -1,0 +1,17 @@
+<!doctype HTml>
+<Html>
+ <head> 
+    <meta charset="UTF-8" />
+    <title>SilaevSA</title>
+    </head>
+    <body>
+        <img src="https://vk.com/silays?z=photo42372642_457246206%2Falbum42372642_000%2Frev" width="200" />
+        <h1>Силаев Сергей Александрович </h1>
+            <h2>Будующий гуру vscode </h2>
+            <hr>
+            <h3>Мои социальные сети </h3>
+            <ul>
+                <li><a href="t.me/Silay95"target="_blank">Telegram</a></li> 
+                <li><a href="https://vk.com/silays"target="_blank">VK</a></li> 
+            </ul>
+    </body>
